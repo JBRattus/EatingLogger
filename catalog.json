@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Quavers",
+    "weight": 20,
+    "calories": 86,
+    "protein": 2.5
+  },
+  {
+    "name": "Chicken",
+    "weight": 300,
+    "calories": 318,
+    "protein": 93
+  },
+  {
+    "name": "Airfried Chips",
+    "weight": 400,
+    "calories": 308,
+    "protein": 8
+  },
+  {
+    "name": "1/2 Chipolatas",
+    "weight": 145,
+    "calories": 240,
+    "protein": 27
+  },
+  {
+    "name": "Full Chipolatas",
+    "weight": 290,
+    "calories": 480,
+    "protein": 54
+  },
+  {
+    "name": "Mayo",
+    "weight": 30,
+    "calories": 80,
+    "protein": 0
+  },
+  {
+    "name": "Flatbread",
+    "weight": 50,
+    "calories": 233,
+    "protein": 9
+  },
+  {
+    "name": "Bread",
+    "weight": 30,
+    "calories": 113,
+    "protein": 5
+  },
+  {
+    "name": "Peanut Butter",
+    "weight": 10,
+    "calories": 102,
+    "protein": 4
+  }
+]
